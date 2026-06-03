@@ -5,3 +5,7 @@ httpx2
 pytest
 pytest-asyncio
 python-dateutil
+sqlalchemy
+psycopg2-binary
+python-dotenv
+alembic
