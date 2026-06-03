@@ -4,3 +4,4 @@ pydantic
 httpx2
 pytest
 pytest-asyncio
+python-dateutil
